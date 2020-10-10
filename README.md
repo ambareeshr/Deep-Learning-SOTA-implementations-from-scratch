@@ -2,6 +2,8 @@
 
 This is a series of "From Scratch" tutorials I'm writing for implementing cool deep learning state-of-the-art models on my own using Tensorflow and Pytorch. 
 
+> What I cannot create, I do not understand. - Richard P. Feynman
+
 Basic knowledge of concepts of Neural Networks, PyTorch and Tensorflow is assumed.
 
 
@@ -20,4 +22,3 @@ DeepLab V3 Plus | [_Encoder-Decoder with Atrous Separable Convolution for Semant
 RNN Encoder-Decoder with Attention | [_Effective Approaches to Attention-based Neural Machine Translation_](https://arxiv.org/abs/1508.04025v5) | [Neural Machine Translation with Attention from scratch](https://github.com/ambareesh-ravi/Neural-Machine-Translation-with-Attention-from-scratch) | *Neural Machine Translation* | Code complete, readme in-progress
 DETR | [_End-to-End Object Detection with Transformers_](https://arxiv.org/abs/2005.12872) | [Detection Transformer from scratch](https://github.com/ambareesh-ravi/Detection-Transformer-from-scratch) | *Object Detection, Image Localization* | Code complete, readme in-progress
 Transformers | [_Attention Is All You Need_](https://arxiv.org/abs/1706.03762) | Transformers from scratch | *Neural Machine Translation, Neural Sequence Transduction Model* | Planned
- | | | |
