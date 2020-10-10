@@ -6,6 +6,7 @@ This is a series of "From Scratch" tutorials I'm writing for implementing cool d
 > What I cannot create, I do not understand. - Richard P. Feynman
 
 &nbsp;
+
 Basic knowledge of concepts of Neural Networks, PyTorch and Tensorflow is assumed.
 
 
